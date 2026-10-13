@@ -1,0 +1,5 @@
+- [x] 研究今日课程过滤与进度计算逻辑
+- [x] 实现 `CourseInfoCard` 补全代码
+- [x] 实现 `WavyProgressIndicator` (Canvas 波浪绘制)
+- [x] 优化 `isCourseFinished`：统一从 `HomeTab.defaultTimeSlots` 获取结束时间
+- [ ] 验证代码在 `InfoTab` 中的集成效果
