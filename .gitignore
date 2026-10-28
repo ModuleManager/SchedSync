@@ -1,0 +1,46 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+*.pkm
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.gradle/
+.kotlin/
+.artifacts/
+
+# Local configuration file (contains SDK path)
+local.properties
+
+# Log files
+*.log
+
+# Build & Cache directories
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+release/
+app/release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Signing keys / KeyStores
+*.jks
+*.keystore
+
+# Credentials and private configuration
+secrets.properties
+credentials.json
+google-services.json
+
+# Private signing configuration
+keystore.properties
+
+# Crash logs and temporary files
+hs_err_pid*
